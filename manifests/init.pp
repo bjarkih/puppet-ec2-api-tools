@@ -1,6 +1,6 @@
 # This is a placeholder class.
-class maven {
+class ec2-api-tools {
   include homebrew
 
-  package { 'maven': }
+  package { 'ec2-api-tools': }
 }
